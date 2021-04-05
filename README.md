@@ -1,6 +1,9 @@
 # Gifs Searcher!
 
-# This is an Angular proyect that is connected to Giphy API, to search for any gif matching, this proyect contains:
+#              This is an Angular proyect that is connected to Giphy API, to search for any gif matching, this proyect contains:
+#
+#
+#
 
 # * HTTP requests to consume an API service.
 # * Modules, Components structure matching angular high scales applications.
