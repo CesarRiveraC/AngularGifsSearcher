@@ -1,0 +1,13 @@
+<div class="border-right p-3" >
+    <h3 class="text-light">
+        Gifs Searcher!
+    </h3>
+    <hr class="text-white">
+    <div class="list-group list-reset">
+        <a href="#" class="list-group-item list-group-item-action" *ngFor="let busqueda of historial"
+            (click)="buscar(busqueda)">
+            {{busqueda |titlecase}}
+        </a>
+
+    </div>
+</div>
