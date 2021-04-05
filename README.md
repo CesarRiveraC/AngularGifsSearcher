@@ -12,7 +12,7 @@
 # * local Storage to handle search History.
 # * Animations to show gifs.
 
-# YOU CAN CHECK THIS APP https://cesargifsearcher.netlify.app
+# You can check this app at https://cesargifsearcher.netlify.app
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.5.
 
